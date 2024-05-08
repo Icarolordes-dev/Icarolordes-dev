@@ -23,7 +23,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br/><br>
-## ⭐ GitHub Stats
+
 <br/>
 <a href="https://github.com//Icarolordes-dev" title="Perfil do Icaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&theme=vue&show_icons=true" />
