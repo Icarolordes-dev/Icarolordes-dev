@@ -5,7 +5,7 @@ Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
 - 🎓 Estou estudando Engenharia de Software na UniCesumar.
 - 💼 Trabalho como Desenvolvedor Web na X.T Digital.
 - 🌱 Estou aprendendo mais sobre PHP.
-<br/> 
+ 
 
 ## Ferramentas e Tecnologias 🛠️
 
@@ -22,7 +22,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-<br/><br>
+<br/> 
 
 <br/>
 <a href="https://github.com//Icarolordes-dev" title="Perfil do Icaro">
