@@ -6,6 +6,7 @@ Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
 - 💼 Trabalho como Desenvolvedor Web na X.T Digital.
 - 🌱 Estou aprendendo mais sobre PHP.
 <br/> 
+
 ## Ferramentas e Tecnologias 🛠️
 
 Aqui estão algumas das ferramentas e tecnologias que utilizo:
