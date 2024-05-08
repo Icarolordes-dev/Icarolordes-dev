@@ -26,9 +26,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 
 <br/>
 <a href="https://github.com//Icarolordes-dev" title="Perfil do Icaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&theme=vue&show_icons=true" />
-</a>
-<br/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&theme=merko&show_icons=true" />
 
 ## Contato 📫
 
