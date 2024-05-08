@@ -1,4 +1,4 @@
-# Sobre Mim 📚
+## Sobre Mim 📚
 
 Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
 
@@ -7,7 +7,7 @@ Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
 - 🌱 Estou aprendendo mais sobre PHP.
 <br/><br/>
 
-# Ferramentas e Tecnologias 🛠️
+## Ferramentas e Tecnologias 🛠️
 
 Aqui estão algumas das ferramentas e tecnologias que utilizo:
 
@@ -30,7 +30,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 </a>
 <br/><br/><br/>
 
-# Contato 📫
+## Contato 📫
 
 Você pode me encontrar aqui:
 
