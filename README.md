@@ -5,7 +5,7 @@ Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
 - 🎓 Estou estudando Engenharia de Software na UniCesumar.
 - 💼 Trabalho como Desenvolvedor Web na X.T Digital.
 - 🌱 Estou aprendendo mais sobre PHP.
-<br/><br/>
+<br/> 
 
 ## Ferramentas e Tecnologias 🛠️
 
@@ -28,7 +28,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 <a href="https://github.com//Icarolordes-dev" title="Perfil do Icaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icarolordes-dev&theme=vue&show_icons=true" />
 </a>
-<br/><br/><br/>
+<br/><br/> 
 
 ## Contato 📫
 
