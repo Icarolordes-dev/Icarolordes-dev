@@ -2,7 +2,7 @@
 
 ## Sobre Mim 📚
 
-Sempre em busca de explorar novas tecnologias e desenvolver. Atualmente:
+Desde 2020, atuo como Gestor de Tráfego, tendo investido mais de 10M em anúncios do Google Ads e Meta Ads neste período. Atendi pequenas e médias empresas de mais de quinze segmentos, veiculando anúncios dentro e fora do Brasil. Sempre em busca de novas tecnologias e aprimoramento. Atualmente:
 
 - 🎓 Estou estudando Engenharia de Software na UniCesumar.
 - 💼 Trabalho como Desenvolvedor Web na X.T Digital.
