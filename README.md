@@ -24,7 +24,6 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
 <br/><br>
 # ⭐ GitHub Stats
