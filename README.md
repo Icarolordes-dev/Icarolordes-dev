@@ -10,7 +10,7 @@
 
 Desde 2020, atuo como Gestor de Tráfego, tendo investido mais de 1M em anúncios online do Google Ads e Meta Ads neste período. Atendi pequenas e médias empresas de mais de quinze segmentos, veiculando anúncios dentro e fora do Brasil. Sempre em busca de novas tecnologias e aprimoramento. Atualmente:
 
-- 🎓 Cursando segundo período de Engenharia de Software na UniCesumar.
+- 🎓 Cursando terceiro período de Engenharia de Software na UniCesumar.
 - 💼 Trabalho como Gerente de Tráfego e Desenvolvedor Web na X.T Digital Marketing.
 - 🌱 Atualmente estou me aperfeiçoando em aplicações com TypeScript e aprendendo mais sobre Banco de dados.
 
